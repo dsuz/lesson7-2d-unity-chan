@@ -3,7 +3,6 @@ using System.Collections;
 
 public class BackgroundController : MonoBehaviour
 {
-
     // スクロール速度
     private float scrollSpeed = -0.03f;
     // 背景終了位置
